@@ -1,0 +1,11 @@
+
+
+###
+post http://localhost:8000/api/v0/fund_account
+Content-Type: application/json
+
+{
+  "_id" : "65a8f4a4b8b8911d60a70406",
+  "accountNumber":"8141393379",
+  "amount" : 100
+}
